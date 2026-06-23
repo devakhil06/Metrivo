@@ -1,7 +1,7 @@
 # 🚀 Metrivo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI-Powered+Business+Analytics;Upload+Statements+%E2%86%92+Get+Insights;Dashboards+%7C+KPIs+%7C+Forecasting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=AI-Powered+Business+Analyst;Upload+Statements+%E2%86%92+Get+Insights;Dashboards+%7C+KPIs+%7C+Forecasting" />
 </p>
 
 <p align="center">
