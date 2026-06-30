@@ -13,10 +13,10 @@
 
 ---
 
-## 🎥 Product Demo
+## 🎥 Product Description
 
 <p align="center">
-  <img src="./assets/demo.gif" width="900">
+  Small businesses generate valuable financial data every day, but most owners don't have the time or expertise to turn it into actionable insights. Our platform lets them upload UPI statements, bank statements, or Excel reports and automatically converts that data into dashboards, KPIs, profit analysis, and growth trends. An AI-powered business analyst then explains performance in simple language, highlights risks, and identifies opportunities for improvement. The result is affordable, data-driven decision support for small businesses without manual bookkeeping or expensive consultants.
 </p>
 
 ---
