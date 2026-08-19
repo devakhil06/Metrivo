@@ -29,7 +29,7 @@ flowchart LR
     style J fill:#9bff76,stroke:#9bff76,color:#07100c
 ```
 
-## The Analyst
+## The Analyst / query-bot
 
 The Analyst is a data-grounded business assistant—not a free-form chatbot.
 
@@ -50,26 +50,29 @@ flowchart TD
     A --> S[Saved conversation]
 ```
 
-## Technology
+## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-1E293B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Recharts-18181B?style=for-the-badge&logo=chartdotjs&logoColor=22B573" alt="Recharts" />
-  <img src="https://img.shields.io/badge/MongoDB-17221B?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/NVIDIA-172015?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=D63AFF" alt="JWT" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="42" height="42" alt="Recharts" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" width="42" height="42" alt="NVIDIA" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/FB015B" width="42" height="42" alt="JWT" />
 </p>
 
 ---
 
-
-## Quick start
+## To start locally (first download all the files)
 
 ```bash
 npm install
