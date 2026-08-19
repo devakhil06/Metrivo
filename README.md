@@ -5,11 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>Turn raw transactions into clear business decisions.</strong><br />
-  Financial intelligence, forecasting, and an evidence-grounded AI Analyst for small businesses.
-</p>
-
-<p align="center">
   <a href="#quick-start">Quick start</a> ·
   <a href="./CODEBASE_OVERVIEW.md">Architecture</a> ·
   <a href="#the-analyst">The Analyst</a> ·
