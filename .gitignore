@@ -5,9 +5,17 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+/backend/.venv
 
 # testing
 /coverage
+
+# python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
 # next.js
 /.next/
@@ -26,6 +34,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+.env
 .env*.local
 
 # vercel
